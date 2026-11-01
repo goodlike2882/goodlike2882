@@ -5,7 +5,7 @@
 
 ## Проекты
 
-### [Конструктор договоров](https://goodlike2882.github.io/license-constructor/)
+### [Конструктор договоров](https://goodlike2882.github.io/contract-constructor/)
 
 Анкета, из которой собирается договор в Word. Четыре вида: лицензионный договор на ПО, поставка, оказание услуг, подряд.
 
@@ -14,8 +14,7 @@
 - Собирает .docx со стилями, многоуровневой автонумерацией и перекрёстными ссылками на пункты. Шаблоны оформлены по принципам юридического дизайна.
 - Работает в браузере: введённые данные никуда не отправляются.
 
-[Открыть конструктор](https://goodlike2882.github.io/license-constructor/) · [Код](https://github.com/goodlike2882/license-constructor)
+[Открыть конструктор](https://goodlike2882.github.io/contract-constructor/) · [Код](https://github.com/goodlike2882/contract-constructor)
 
 ## Инструменты
-
 HTML, CSS, JavaScript, Office Open XML (Word), Python, GitHub Pages.
