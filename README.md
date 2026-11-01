@@ -1,16 +1,21 @@
-## Hi there 👋
+# Владислав Хорохорин
 
-<!--
-**goodlike2882/goodlike2882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Юрист: договорная работа, IT- и цифровые проекты.  
+Магистратура НИУ ВШЭ, программа «ЛигалТех».
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Конструктор договоров](https://goodlike2882.github.io/license-constructor/)
+
+Анкета, из которой собирается договор в Word. Четыре вида: лицензионный договор на ПО, поставка, оказание услуг, подряд.
+
+- Не даёт скачать договор без существенных условий: предмета и способов использования для лицензии (ст. 1235, 1270 ГК РФ), наименования и количества товара для поставки (ст. 455, 506), предмета услуг (ст. 779), результата и сроков работ (ст. 702, 708).
+- Сверяет ИНН и расчётный счёт с БИК по контрольным цифрам.
+- Собирает .docx со стилями, многоуровневой автонумерацией и перекрёстными ссылками на пункты. Шаблоны оформлены по принципам юридического дизайна.
+- Работает в браузере: введённые данные никуда не отправляются.
+
+[Открыть конструктор](https://goodlike2882.github.io/license-constructor/) · [Код](https://github.com/goodlike2882/license-constructor)
+
+## Инструменты
+
+HTML, CSS, JavaScript, Office Open XML (Word), Python, GitHub Pages.
