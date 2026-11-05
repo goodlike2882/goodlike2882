@@ -17,5 +17,16 @@
 
 [Открыть конструктор](https://goodlike2882.github.io/contract-constructor/) · [Код](https://github.com/goodlike2882/contract-constructor)
 
+### [Проверка open source лицензий](https://goodlike2882.github.io/oss-license-check/)
+
+Находит сторонние компоненты программы и их лицензии и показывает, что из этого следует для юриста.
+
+- Читает папку проекта в браузере: lock-файлы npm и Composer, установленные пакеты npm и Python, Maven, Go, Cargo, SBOM в форматах CycloneDX и SPDX. Лицензию определяет по метаданным, тексту файла LICENSE и пометкам SPDX в исходниках.
+- Оценивает компоненты с учётом модели распространения (передача копий, онлайн-сервис, внутреннее использование) и способа подключения. Находит конфликты: закрытый продукт с GPL-кодом, AGPL в закрытом сервисе, GPL-2.0-only рядом с Apache 2.0, запрет коммерческого использования.
+- Собирает отчёт в Word: конфликты с объяснением, обязанности по лицензиям, перечень компонентов и формулировку для лицензионного договора.
+- Файлы проекта не отправляются на сервер.
+
+[Открыть](https://goodlike2882.github.io/oss-license-check/) · [Код](https://github.com/goodlike2882/oss-license-check)
+
 ## Инструменты
 HTML, CSS, JavaScript, Office Open XML (Word), Python, GitHub Pages.
